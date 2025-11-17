@@ -1,13 +1,13 @@
-MBA Engenharia de Dados
-Turma D - 2025
-Disciplina: Cloud Computing e SRE
+MBA Engenharia de Dados / 
+Turma D - 2025 / 
+Disciplina: Cloud Computing e SRE / 
 Professor: Yuri Menezes
 
 
 Alunos:
-Rodrigo Luchini Ferreira: 10121256
-Mayra Lopes Moreira: 10161587
-Talohama Dayane Ferreira Marques: 1073022-6
+Rodrigo Luchini Ferreira: 10121256 / 
+Mayra Lopes Moreira: 10161587 / 
+Talohama Dayane Ferreira Marques: 1073022-6 / 
 
 
 
