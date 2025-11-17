@@ -199,7 +199,7 @@ resource "aws_cloudwatch_metric_alarm" "cpu_high" {
 }
 
 ###############################################
-# DNS via Route 53 (Opcional)
+# DNS via Route 53
 ###############################################
 
 resource "aws_route53_record" "www" {
